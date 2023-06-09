@@ -13,3 +13,5 @@ Before you copy the code in the browser put javascript:
 
 after you see that, do 100-1000. 
 then check your history. then your done, make sure to star and follow me on github.
+
+Now whatever you have to hide is now hidden, have a good day.
